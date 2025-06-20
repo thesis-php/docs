@@ -47,21 +47,9 @@
     "dark": "/logo/dark.svg"
   },
   "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
-    }
-  },
-  "footer": {
-    "socials": {
-      "github": "https://github.com/thesis-php"
+   "primary": {
+      "type": "github",
+      "href": "https://github.com/thesis-php"
     }
   }
 }
