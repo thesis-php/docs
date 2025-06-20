@@ -3,9 +3,9 @@
   "theme": "willow",
   "name": "thesis",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#006AD4",
+    "light": "#007FFF",
+    "dark": "#006AD4"
   },
   "favicon": "/favicon.svg",
   "navigation": {
