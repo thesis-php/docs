@@ -16,9 +16,7 @@
           {
             "group": "Packages",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "amqp"
             ]
           }
         ]
