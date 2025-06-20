@@ -24,8 +24,8 @@
     ]
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/thesis-light.jpg",
+    "dark": "/logo/thesis-dark.jpg"
   },
   "navbar": {
    "primary": {
